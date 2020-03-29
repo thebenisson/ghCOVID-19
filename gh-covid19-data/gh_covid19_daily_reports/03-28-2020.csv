@@ -1,6 +1,6 @@
-Township ,Region        ,last_update      ,lat      ,long      ,new-cases ,deaths ,recovered ,active
-Accra    ,Greater Accra ,03/28/2020 23:15 ,5.550000 ,-0.020000 ,3         ,1      ,0         ,0
-Tema     ,Greater Accra ,03/28/2020 23:15 ,5.666667 ,0.000000  ,0         ,0      ,0         ,0
-Obuasi   ,Ahanti        ,03/28/2020 23:15 ,6.201207 ,-1.691251 ,0         ,0      ,0         ,0
-Kumasi   ,Ahanti        ,03/28/2020 23:15 ,6.700071 ,-1.630783 ,0         ,0      ,0         ,0
-Wa       ,Upper West    ,03/28/2020 23:15 ,10.06069 ,-2.50192  ,1         ,0      ,0         ,0
+Township,Region,last_update,lat,long,new-cases,deaths,recovered,active
+Accra,Greater Accra,03/28/2020 23:15,5.550000,-0.020000,3,1,0,0
+Tema,Greater Accra,03/28/2020 23:15,5.666667,0.000000,0,0,0,0
+Obuasi,Ahanti,03/28/2020 23:15,6.201207,-1.691251,0,0,0,0
+Kumasi,Ahanti,03/28/2020 23:15,6.700071,-1.630783,0,0,0,0
+Wa,Upper West,03/28/2020 23:15,10.06069,-2.50192,1,0,0,0
