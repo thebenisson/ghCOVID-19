@@ -1,0 +1,7 @@
+Township ,Region        ,last_update      ,lat ,long ,new-cases ,deaths ,recovered ,active
+Accra    ,Greater Accra ,03/29/2020 12:20 ,    ,     ,0         ,0      ,0         ,0
+Tema     ,Greater Accra ,03/29/2020 12:20 ,    ,     ,0         ,0      ,0         ,0
+Obuasi   ,Ahanti        ,03/29/2020 12:20 ,    ,     ,0         ,0      ,0         ,0
+Kumasi   ,Ahanti        ,03/29/2020 12:20 ,    ,     ,1         ,0      ,0         ,0
+Wa       ,Upper West    ,03/29/2020 12:20 ,    ,     ,0         ,0      ,0         ,0
+Tamale   ,Northern      ,03/29/2020 12:20 ,    ,     ,10        ,0      ,0         ,0
