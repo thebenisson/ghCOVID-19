@@ -1,2 +1,2 @@
-Township ,Region        ,last_update      ,lat ,long ,new-cases ,deaths ,recovered ,active
-         ,Greater Accra ,03/13/2020 23:08 ,    ,     ,2         ,0      ,0         ,2
+Township ,Region        ,last_update      ,lat      ,long      ,new-cases ,deaths ,recovered ,active
+         ,Greater Accra ,03/13/2020 23:08 ,5.550000 ,-0.020000 ,2         ,0      ,0         ,2
