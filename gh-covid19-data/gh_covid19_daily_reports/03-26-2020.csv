@@ -1,0 +1,5 @@
+Township ,Region        ,last_update      ,lat ,long ,new-cases ,deaths ,recovered ,active
+Accra    ,Greater Accra ,03/26/2020 23:01 ,    ,     ,60        ,1      ,0         ,0
+Tema     ,Greater Accra ,03/26/2020 23:01 ,    ,     ,0         ,0      ,0         ,0
+Obuasi   ,Ahanti        ,03/26/2020 23:01 ,    ,     ,0         ,0      ,0         ,0
+Kumasi   ,Ahanti        ,03/26/2020 23:01 ,    ,     ,4         ,0      ,1         ,0
